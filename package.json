@@ -1,0 +1,19 @@
+{
+  "name": "synapse-engine",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node src/swap.js",
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chai": "^4.3.6",
+    "dotenv": "^8.2.0",
+    "ethers": "^5.6.9",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.2",
+    "mocha": "^10.0.0"
+  }
+}

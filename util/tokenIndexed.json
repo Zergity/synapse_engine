@@ -1,0 +1,24 @@
+{
+  "tokenIndex": [
+    {
+      "address": "0x23b891e5C62E0955ae2bD185990103928Ab817b3",
+      "symbol": "NUSD",
+      "decimal": "18"
+    },
+    {
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "symbol": "BUSD",
+      "decimal": "18"
+    },
+    {
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "symbol": "USDC",
+      "decimal": "18"
+    },
+    {
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "symbol": "USDT",
+      "decimal": "18"
+    }
+  ]
+}
