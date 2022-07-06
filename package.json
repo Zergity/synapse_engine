@@ -6,6 +6,7 @@
     "start": "node src/swap.js",
     "test": "mocha"
   },
+  "main": "index.js",
   "dependencies": {
     "chai": "^4.3.6",
     "dotenv": "^8.2.0",
